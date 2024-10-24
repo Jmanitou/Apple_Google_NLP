@@ -35,7 +35,7 @@ Tweet data was sourced from a past SXSW (before 2014). Tweets were found if they
 ![Positive Rate](images/Positive_Rate.PNG)
 
 # Conclusion
-Positive Words: great awesome like appreciete good beautiful smart excite wait best love nice must enjoy fun rock cool 
+Positive Words: great awesome like appreciate good beautiful smart excite wait best love nice must enjoy fun rock cool 
 
 Negative Words: dead insane headache long fail hate suck fascist fade crashing
 
