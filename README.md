@@ -20,7 +20,7 @@ Jackson Robbins: https://github.com/Jmanitou
 └── Apple_Google_NLP.ipynb
 ```
 # Business Understanding
-I work for a data company where we are hired by different companies who display their products at different conventions.
+I work for a data company where we are hired by different companies who display their products at different conventions. For this project specifically we are working with SXSW to help them diagnose products shown at their convention.
 
 I was instructed to decode the responses of products displayed at South by South West (SXSW), see which words on twitter signify positive or negative sentiment, and seeing which product was seen to be the most favorable at SXSW.
 # Data Understanding and Analysis
