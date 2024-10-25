@@ -30,7 +30,9 @@ Tweet data was sourced from a past SXSW (before 2014). Tweets were found if they
 # Visualizations
 ![Tweet Per Product](images/Tweet_Per_Product.PNG)
 ![Emotion_Graph](images/Emotion_GraphV1.PNG)
+## Positive Wordcloud
 ![Positive Wordcloud](images/positive_wordcloud.PNG)
+## Negative Wordcloud
 ![Negative Wordcloud](images/negative_wordcloud.PNG)
 ![Positive Rate](images/Positive_Rate.PNG)
 
